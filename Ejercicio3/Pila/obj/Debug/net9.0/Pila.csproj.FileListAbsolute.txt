@@ -1,0 +1,14 @@
+C:\Users\52867\Desktop\Codigos 3 semestre\Pila\bin\Debug\net9.0\Pila.exe
+C:\Users\52867\Desktop\Codigos 3 semestre\Pila\bin\Debug\net9.0\Pila.deps.json
+C:\Users\52867\Desktop\Codigos 3 semestre\Pila\bin\Debug\net9.0\Pila.runtimeconfig.json
+C:\Users\52867\Desktop\Codigos 3 semestre\Pila\bin\Debug\net9.0\Pila.dll
+C:\Users\52867\Desktop\Codigos 3 semestre\Pila\bin\Debug\net9.0\Pila.pdb
+C:\Users\52867\Desktop\Codigos 3 semestre\Pila\obj\Debug\net9.0\Pila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52867\Desktop\Codigos 3 semestre\Pila\obj\Debug\net9.0\Pila.AssemblyInfoInputs.cache
+C:\Users\52867\Desktop\Codigos 3 semestre\Pila\obj\Debug\net9.0\Pila.AssemblyInfo.cs
+C:\Users\52867\Desktop\Codigos 3 semestre\Pila\obj\Debug\net9.0\Pila.csproj.CoreCompileInputs.cache
+C:\Users\52867\Desktop\Codigos 3 semestre\Pila\obj\Debug\net9.0\Pila.dll
+C:\Users\52867\Desktop\Codigos 3 semestre\Pila\obj\Debug\net9.0\refint\Pila.dll
+C:\Users\52867\Desktop\Codigos 3 semestre\Pila\obj\Debug\net9.0\Pila.pdb
+C:\Users\52867\Desktop\Codigos 3 semestre\Pila\obj\Debug\net9.0\Pila.genruntimeconfig.cache
+C:\Users\52867\Desktop\Codigos 3 semestre\Pila\obj\Debug\net9.0\ref\Pila.dll
