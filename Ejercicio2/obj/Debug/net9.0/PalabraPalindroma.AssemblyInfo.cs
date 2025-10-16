@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PalabraPalindroma")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da49156122ee35c74e3e330bd357d9118dd5a7b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("PalabraPalindroma")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PalabraPalindroma")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

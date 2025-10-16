@@ -21,20 +21,20 @@ namespace PalabraPalindroma
         }
 
         // Desapilamos para invertir la palabra
-        string invertida = "";
+        string PalabraInv = "";
         while (!pila.Vacia())
         {
-            invertida += pila.Pop();
+            PalabraInv += pila.Pop();
         }
 
         // Comparamos
-        if (palabra == invertida)
+        if (palabra == PalabraInv)
         {
-            Console.WriteLine($" \"{palabra}\" es un palíndromo.");
+            Console.WriteLine($" \"{palabra}\" es una palabra palíndroma.");
         }
         else
         {
-            Console.WriteLine($" \"{palabra}\" no es un palíndromo.");
+            Console.WriteLine($" \"{palabra}\" no es una palabra palíndroma.");
         }
 
         Console.WriteLine("\nPresiona cualquier tecla para salir...");
