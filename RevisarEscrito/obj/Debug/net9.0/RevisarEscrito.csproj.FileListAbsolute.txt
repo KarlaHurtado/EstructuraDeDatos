@@ -1,0 +1,14 @@
+C:\Users\52867\Desktop\TEC\3SEMESTRE\CODIGOS\RevisarEscrito\obj\Debug\net9.0\RevisarEscrito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52867\Desktop\TEC\3SEMESTRE\CODIGOS\RevisarEscrito\obj\Debug\net9.0\RevisarEscrito.AssemblyInfoInputs.cache
+C:\Users\52867\Desktop\TEC\3SEMESTRE\CODIGOS\RevisarEscrito\obj\Debug\net9.0\RevisarEscrito.AssemblyInfo.cs
+C:\Users\52867\Desktop\TEC\3SEMESTRE\CODIGOS\RevisarEscrito\obj\Debug\net9.0\RevisarEscrito.csproj.CoreCompileInputs.cache
+C:\Users\52867\Desktop\TEC\3SEMESTRE\CODIGOS\RevisarEscrito\bin\Debug\net9.0\RevisarEscrito.exe
+C:\Users\52867\Desktop\TEC\3SEMESTRE\CODIGOS\RevisarEscrito\bin\Debug\net9.0\RevisarEscrito.deps.json
+C:\Users\52867\Desktop\TEC\3SEMESTRE\CODIGOS\RevisarEscrito\bin\Debug\net9.0\RevisarEscrito.runtimeconfig.json
+C:\Users\52867\Desktop\TEC\3SEMESTRE\CODIGOS\RevisarEscrito\bin\Debug\net9.0\RevisarEscrito.dll
+C:\Users\52867\Desktop\TEC\3SEMESTRE\CODIGOS\RevisarEscrito\bin\Debug\net9.0\RevisarEscrito.pdb
+C:\Users\52867\Desktop\TEC\3SEMESTRE\CODIGOS\RevisarEscrito\obj\Debug\net9.0\RevisarEscrito.dll
+C:\Users\52867\Desktop\TEC\3SEMESTRE\CODIGOS\RevisarEscrito\obj\Debug\net9.0\refint\RevisarEscrito.dll
+C:\Users\52867\Desktop\TEC\3SEMESTRE\CODIGOS\RevisarEscrito\obj\Debug\net9.0\RevisarEscrito.pdb
+C:\Users\52867\Desktop\TEC\3SEMESTRE\CODIGOS\RevisarEscrito\obj\Debug\net9.0\RevisarEscrito.genruntimeconfig.cache
+C:\Users\52867\Desktop\TEC\3SEMESTRE\CODIGOS\RevisarEscrito\obj\Debug\net9.0\ref\RevisarEscrito.dll
