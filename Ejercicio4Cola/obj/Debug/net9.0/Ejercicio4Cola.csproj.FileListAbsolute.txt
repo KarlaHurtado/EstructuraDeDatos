@@ -1,0 +1,5 @@
+C:\Users\52867\Desktop\TEC\3SEMESTRE\CodigosUnidad2\Ejercicio4Cola\obj\Debug\net9.0\Ejercicio4Cola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52867\Desktop\TEC\3SEMESTRE\CodigosUnidad2\Ejercicio4Cola\obj\Debug\net9.0\Ejercicio4Cola.AssemblyInfoInputs.cache
+C:\Users\52867\Desktop\TEC\3SEMESTRE\CodigosUnidad2\Ejercicio4Cola\obj\Debug\net9.0\Ejercicio4Cola.AssemblyInfo.cs
+C:\Users\52867\Desktop\TEC\3SEMESTRE\CodigosUnidad2\Ejercicio4Cola\obj\Debug\net9.0\Ejercicio4Cola.csproj.CoreCompileInputs.cache
+C:\Users\52867\Desktop\TEC\3SEMESTRE\CodigosUnidad2\Ejercicio4Cola\obj\Debug\net9.0\Ejercicio4Cola.sourcelink.json
