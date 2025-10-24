@@ -1,0 +1,79 @@
+# Tipos de Arreglos  
+**Realizado por:** Karla Margarita Hurtado Muñiz  
+
+---
+
+## Arreglo  
+Estructura de datos que almacena un conjunto de elementos del mismo tipo de manera contigua en memoria, permitiendo acceder a cada elemento por medio de un índice numérico. 
+
+![imagen arreglo](Imagenes/ImagenArreglo.png)
+---
+
+## Pilas  
+Es una colección de elementos que se encuentran organizados en el método **LIFO** (*Last In, First Out*), que se define como “el último en entrar es el primero en salir”.  
+Aquí no se pueden acceder a elementos que fueron registrados al principio si se agregan más elementos.  
+
+**Ejemplo:**  
+Una pila de platos donde se lava o utiliza primero el último que fue puesto en la pila.  
+![ImagenEjemploPila](Imagenes/EjemploPila.png)
+
+**Métodos principales:**  
+- **Push:** Inserta un dato en la cima de la pila.  
+- **Pop:** Elimina el dato ubicado en la cima de la pila.  
+![ImagenPila](Imagenes/ImagenPila.png)
+---
+
+## Colas  
+Es una colección de elementos organizados de forma lineal que utiliza el método **FIFO** (*First In, First Out*), es decir, el primero en entrar es el primero en salir.  
+Consulta el primer elemento registrado y, cuando se agregan más, estos se colocan al final de la cola, manteniendo el orden en que fueron ingresados.  
+
+![ImagenCola](Imagenes/ImagenCola.png)
+**Métodos principales:**  
+- **Insertar:** Inserta un dato al final de la cola.  
+- **Eliminar:** Elimina el dato ubicado en el frente de la cola.  
+
+**Ejemplo:**  
+La fila de un banco que atiende al primero que llegó.  
+
+![EjemploCola](Imagenes/EjemploCola.png)
+
+---
+
+## Listas  
+Es una colección de elementos que se encuentran ordenados, y cada elemento contiene un índice que permite acceder, agregar o eliminar elementos según su posición correspondiente.  
+
+---
+
+### Lista Simple  
+Es una estructura de datos **lineal y dinámica** compuesta por un conjunto de nodos en secuencia, enlazados mediante un apuntador o referencia.  
+
+- Tiene un apuntador **inicial**.  
+- El último nodo de la lista apunta a **nulo**.  
+
+**Tipos:**  
+- Con datos ordenados.  
+- Con datos desordenados.  
+![ImagenListaSimple](Imagenes/ImagenListaSimple.png)
+---
+
+### Lista Doble  
+Es una estructura de datos **dinámica** compuesta por un conjunto de nodos en secuencia enlazados mediante **dos apuntadores**: uno hacia adelante y otro hacia atrás.  
+
+- Tiene un apuntador **inicial** y un apuntador **final**.  
+- El primer y el último nodo apuntan a **nulo**.  
+
+**Tipos:**  
+- Con datos ordenados.  
+- Con datos desordenados.  
+![ImagenListaDoble](Imagenes/ImagenListaDoble.png)
+
+---
+
+### Lista Circular  
+Es una lista lineal en la que el último nodo **apunta al primero**, evitando excepciones en las operaciones que se realicen sobre ella.  
+No existen casos especiales, ya que cada nodo siempre tiene uno anterior y uno siguiente.  
+
+Una referencia apunta al siguiente nodo en la secuencia, y en una lista circular, este puntero del último nodo **apunta al primer nodo**.  
+
+![ImagenListaCircula](Imagenes/ImagenListaCircular.png)
+---
